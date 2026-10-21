@@ -1,6 +1,8 @@
-<!-- Header Banner / Typing SVG Animation -->
+<!-- Header Banner & Typing Animation -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=2563EB&center=true&vCenter=true&width=650&lines=¡Hola!+Soy+Julio+Ernesto+Castaño+👋;Backend+Developer+|+Java+·+Spring+Boot+·+Python;Técnico+en+Desarrollo+de+Software+(SENA);Apasionado+por+Calidad+de+Software%2C+Bases+de+Datos+e+IA" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,21&height=210&section=header&text=Julio%20Ernesto%20Castaño&fontSize=38&animation=fadeIn&fontAlignY=36&desc=Backend%20Developer%20%7C%20Java%20%C2%B7%20Spring%20Boot%20%C2%B7%20Python%20%C2%B7%20MySQL&descAlignY=58&descAlign=50" width="100%" alt="Julio Castaño Banner" />
+
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2563EB&center=true&vCenter=true&width=650&lines=Backend+Developer+%2F+Java+%2B+Spring+Boot;Python+%2B+MySQL+%2B+Analisis+de+Datos;Calidad+de+Software+y+Pruebas+Funcionales;Tecnologo+en+Desarrollo+de+Software+(SENA)" alt="Typing SVG" />
 </div>
 
 <p align="center">
